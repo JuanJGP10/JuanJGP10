@@ -34,20 +34,14 @@
 
 ---
 
-### 🛰️ Network Interfaces
+🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_username)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+🌐 Portfolio
 
----
+💼 LinkedIn
 
-### 🧨 Fun Fact
+🐦 Twitter/X
 
-Real hackers don’t hack systems...  
-They hack *minds*.
+📫 Email: your.email@example.com
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400">
-  <br> 🔐 Stay curious. Stay sharp. Stay dangerous.
-</p>
+<p align="center"> <sub><i>"Code is like poetry — clear, structured, and expressive."</i></sub><br> <sub>— Let's build something meaningful.</sub> </p> ```
