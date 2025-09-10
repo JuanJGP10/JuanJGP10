@@ -16,11 +16,11 @@
 
 ### 💾 Tech Arsenal
 
-| Language     | Tools & Frameworks    | Utilities           |
-|--------------|------------------------|----------------------|
-| 🟢 JavaScript | 🧩 React, Node.js       | 🛠️ Git, Webpack       |
-| 🐍 Python     | 🧠 Flask, FastAPI       | 🖥️ VS Code, Bash      |
-| 🔵 TypeScript | ⚙️ Express, MongoDB     | 🧪 Postman, Docker    |
+| Language     | Tools & Frameworks    | 
+|--------------|------------------------|
+| 🟢 JavaScript | 🧩 React, Node.js       | 
+| 🐍 Java       | 🧠 Springboot           | 
+| 🔵 SQL | ⚙️ MySQL, MongoDB, PostgreSQL     |
 
 ---
 
@@ -36,12 +36,9 @@
 
 🌍 Connect with Me
 
-🌐 Portfolio
-
-💼 LinkedIn
-
-🐦 Twitter/X
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/JuanJGP10)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JuanJGPdev)  
+My cv: 
 📫 Email: jjgphillips1@gmail.com
 
 <p align="center"> <sub><i>"Code is like poetry — clear, structured, and expressive."</i></sub><br> <sub>— Let's build something meaningful.</sub> </p>
