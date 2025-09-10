@@ -1,17 +1,31 @@
-## Hi there 👋
+<h1 align="center">👾 Welcome to My GitHub Realm 👨‍💻</h1>
 
-<h1 align="left">👾 Welcome to my GitHub space 👨‍💻</h1>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola%20👋,%20soy%20un%20desarrollador%20apasionado;Siempre%20aprendiendo%20algo%20nuevo!&center=true&width=380&height=45">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20a%20passionate%20developer;Always%20learning%20new%20things!&center=true&width=380&height=45">
 </p>
 
 ---
 
-### 🌟 About me
+### 🌟 About Me
 
 ```txt
-💻 Developer | 🌐 Full stack
-🚀 passionate about technology and continuous learning
-🤖 Let's create something.
+💻 Developer | 🌐 Web Enthusiast | 🎮 Gamer at Heart  
+🚀 Passionate about tech and lifelong learning  
+🤖 Always looking to build something awesome
+🔧 Tech Stack & Tools
+💡 Languages:
 
+
+
+
+⚙️ Tools & Frameworks:
+
+
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p>
+🌐 Connect with Me
+
+
+
+<p align="center"> ⚡ Thanks for stopping by! <br> ⭐ Don’t forget to star your favorite projects! </p> ```
