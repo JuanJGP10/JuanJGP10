@@ -42,6 +42,6 @@
 
 🐦 Twitter/X
 
-📫 Email: your.email@example.com
+📫 Email: jjgphillips1@gmail.com
 
-<p align="center"> <sub><i>"Code is like poetry — clear, structured, and expressive."</i></sub><br> <sub>— Let's build something meaningful.</sub> </p> ```
+<p align="center"> <sub><i>"Code is like poetry — clear, structured, and expressive."</i></sub><br> <sub>— Let's build something meaningful.</sub> </p>
