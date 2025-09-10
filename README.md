@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**JuanJGP10/JuanJGP10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👾 Bienvenid@ a mi rincón en GitHub 👨‍💻</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola%20👋,%20soy%20un%20desarrollador%20apasionado;Siempre%20aprendiendo%20algo%20nuevo!&center=true&width=380&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Sobre mí
+
+```txt
+💻 Desarrollador | 🌐 Web Lover | 🎮 Gamer de corazón
+🚀 Apasionado por la tecnología y el aprendizaje constante.
+🤖 Siempre con ganas de crear algo épico.
+
