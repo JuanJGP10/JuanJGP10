@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+realm...;Initialising+profile;Software+developer+%F0%9F%94%91" alt="Typing SVG" /></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Welcome+to+my+realm...;Initialising+profile;Software+developer+%F0%9F%94%91" alt="Typing SVG" /></h1>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Code Hacking GIF">
 </p>
 
