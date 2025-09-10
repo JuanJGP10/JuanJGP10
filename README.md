@@ -1,31 +1,51 @@
-<h1 align="center">👾 Welcome to My GitHub Realm 👨‍💻</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+terminal...;Initialising+profile;Access+granted+%F0%9F%94%91" alt="Typing SVG" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20a%20passionate%20developer;Always%20learning%20new%20things!&center=true&width=380&height=45">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🧠 About Me
 
-```txt
-💻 Developer | 🌐 Web Enthusiast | 🎮 Gamer at Heart  
-🚀 Passionate about tech and lifelong learning  
-🤖 Always looking to build something awesome
-🔧 Tech Stack & Tools
-💡 Languages:
+💻 Developer | 🕶️ Cyber Enthusiast | 🧠 Problem Solver
+⚡ I break things to understand how they work
+📍 Based in: The Matrix
+
+---
+
+### 💾 Tech Arsenal
+
+| Language     | Tools & Frameworks    | Utilities           |
+|--------------|------------------------|----------------------|
+| 🟢 JavaScript | 🧩 React, Node.js       | 🛠️ Git, Webpack       |
+| 🐍 Python     | 🧠 Flask, FastAPI       | 🖥️ VS Code, Bash      |
+| 🔵 TypeScript | ⚙️ Express, MongoDB     | 🧪 Postman, Docker    |
+
+---
+
+### 📊 System Diagnostics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanJGP10&show_icons=true&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJGP10&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🛰️ Network Interfaces
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_username)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### 🧨 Fun Fact
 
 
-
-
-⚙️ Tools & Frameworks:
-
-
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p>
-🌐 Connect with Me
-
-
-
-<p align="center"> ⚡ Thanks for stopping by! <br> ⭐ Don’t forget to star your favorite projects! </p> ```
+```bash
+"Real hackers don’t hack systems...  
+They hack *minds*."
+<p align="center"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400"> <br> 🔐 Stay curious. Stay sharp. Stay dangerous. </p> ```
