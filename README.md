@@ -1,20 +1,20 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+realm...;Initialising+profile;Software+developer+%F0%9F%94%91" alt="Typing SVG" /></h1>
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU2MGlxeWNiejl3NG11ZG9vbHNrYW51eW9zbm9hcmFhamptOXhsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="300" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Code Hacking GIF">
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 💻 Software Developer
 ⚡ I break things to understand how they work
-📍 Based in: My books
+📍 Based in: Spain
 
 ---
 
-### 💾 Tech Arsenal
+### Tech Arsenal
 
 | Language     | Tools & Frameworks    | 
 |--------------|------------------------|
@@ -24,9 +24,9 @@
 
 ---
 
-### 📊 System Diagnostics
+### GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=JuanJGP10&show_icons=true&theme=radical&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJGP10&layout=compact&theme=radical&hide_border=true" />
@@ -34,7 +34,7 @@
 
 ---
 
-🌍 Connect with Me
+Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-garcía-phillips-58a418370)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JuanJGPdev)  
