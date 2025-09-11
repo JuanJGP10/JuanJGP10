@@ -8,11 +8,12 @@
 
 I'm a passionate Software Developer focused on building clean, scalable and impactful solutions.  
 I enjoy elegant code and bringing ideas to life through technology.
+
 Beyond coding, I'm a videogame enthusiast who appreciates design and creativity.
 
 ---
 
-## Tech Arsenal
+## Tech Stack
 
 | Language     | Tools & Frameworks             | 
 |--------------|-------------------------------|
