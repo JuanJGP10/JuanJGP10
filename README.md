@@ -7,8 +7,8 @@
 ## About Me
 
 I'm a passionate Software Developer focused on building clean, scalable and impactful solutions.  
-I enjoy turning complex problems into elegant code and bringing ideas to life through technology.  
-Beyond coding, I'm an avid videogame enthusiast who appreciates design, storytelling, and creativity.
+I enjoy elegant code and bringing ideas to life through technology.
+Beyond coding, I'm a videogame enthusiast who appreciates design and creativity.
 
 ---
 
