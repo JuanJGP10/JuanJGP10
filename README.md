@@ -20,7 +20,7 @@
 |--------------|------------------------|
 | 🟢 JavaScript | 🧩 React, Node.js       | 
 | 🐍 Java       | 🧠 Springboot           | 
-| 🔵 SQL | ⚙️ MySQL, MongoDB, PostgreSQL     |
+| 🔵 Databases | ⚙️ MySQL, MongoDB, PostgreSQL     |
 
 ---
 
