@@ -18,9 +18,9 @@
 
 | Language     | Tools & Frameworks    | 
 |--------------|------------------------|
-| 🟢 JavaScript | 🧩 React, Node.js       | 
-| 🐍 Java       | 🧠 Springboot           | 
-| 🔵 Databases | ⚙️ MySQL, MongoDB, PostgreSQL     |
+| 🟨 JavaScript | 🧩 React, Node.js       | 
+| 🍵 Java       | 🧠 Springboot           | 
+| 🟦 Databases | ⚙️ MySQL, MongoDB, PostgreSQL     |
 
 ---
 
