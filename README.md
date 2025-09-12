@@ -45,7 +45,7 @@ Beyond coding, I'm a videogame enthusiast who appreciates design and creativity.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JuanJGP10)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jjgphillips1@gmail.com)
 
-[Descargar mi CV](https://raw.githubusercontent.com/JuanJGP10/JuanJGP10/main/assets/CV_Juan.pdf)
+[Download my CV](https://raw.githubusercontent.com/JuanJGP10/JuanJGP10/main/assets/CV_Juan.pdf)
 
 ---
 
