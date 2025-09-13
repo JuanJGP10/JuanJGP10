@@ -44,7 +44,7 @@ Beyond coding, I'm a videogame enthusiast who appreciates design and creativity.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-garcía-phillips-58a418370)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jjgphillips1@gmail.com) 
 
-🛠️ [Download my CV](https://raw.githubusercontent.com/JuanJGP10/JuanJGP10/main/assets/CV_Juan.pdf)
+<!--🛠️ [Download my CV](https://raw.githubusercontent.com/JuanJGP10/JuanJGP10/main/assets/CV_Juan.pdf)-->
 
 ---
 
