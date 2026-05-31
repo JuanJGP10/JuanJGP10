@@ -1,42 +1,31 @@
-<h1> Hi, my name is Juan 🐲</h1>
+<h2>Hi, I'm Juan García Phillips</h2>
 
-## About Me
+**Full-Stack Developer** · Spain
 
-I'm a passionate Software Developer focused on building clean, scalable and impactful solutions.  
-I enjoy elegant code and bringing ideas to life through technology.
-
-Beyond coding, I'm a videogame enthusiast who appreciates design and creativity.
+DAM graduate building backend systems with Java & Spring Boot and modern frontends with React. Currently freelancing — selling and shipping websites — while leveling up toward DAW next year.
 
 ---
 
-## Skills
+### Stack
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
-</p>
+**Backend** — Java · Kotlin · Spring Boot · REST APIs  
+**Frontend** — React · TypeScript · HTML · CSS · Tailwind CSS  
+**Database** — MySQL · PostgreSQL  
+**Tools** — Git · IntelliJ IDEA · VS Code
 
 ---
 
-## Socials
+### Currently
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/juan-garc%C3%ADa-phillips-58a418370/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jjgphillips1@gmail.com) 
-</p>
+- Building and selling websites for clients
+- Developing personal full-stack projects
+- Preparing for DAW (Web Application Development) · starting 2026
 
 ---
 
-## Currently Learning
+### Get in touch
 
-- React (TypeScript)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-garc%C3%ADa-phillips-58a418370/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jjgphillips1@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-4A90D9?style=flat&logo=adobeacrobatreader&logoColor=white)](./assets/CV_Juan.pdf)
 
----
-
-<p align="center">
-  <sub><i>"Code is like poetry — clear, structured, and expressive."</i></sub><br>
-  <sub>— Let's build something meaningful.</sub>
-</p>
